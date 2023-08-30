@@ -31,10 +31,10 @@ src="https://img.shields.io/github/followers/https://github.com/dashboard?logo=g
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/https://github.com/dashboard"><img src="https://github-readme-stats.vercel.app/api?username=https://github.com/dashboard&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=000000&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="https://github.com/dashboard's GitHub stats" /></a>
+<a href="http://www.github.com/https://github.com/dashboard"><img src="https://github-readme-stats.vercel.app/api?username= https://github.com/RahulSunkar&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=000000&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="https://github.com/dashboard's GitHub stats" /></a>
 
-<a href="http://www.github.com/https://github.com/dashboard"><img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/dashboard&stroke=000000&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=000000&currStreakLabel=ef4444&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+<a href="http://www.github.com/https://github.com/dashboard"><img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/RahulSunkar&stroke=000000&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=000000&currStreakLabel=ef4444&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
-<a href="http://www.github.com/https://github.com/dashboard"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=https://github.com/dashboard&bg_color=1c1917&color=000000&line=3382ed&point=000000&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/https://github.com/dashboard"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=https://github.com/RahulSunkar&bg_color=1c1917&color=000000&line=3382ed&point=000000&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/https://github.com/dashboard" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/dashboard&langs_count=10&title_color=ef4444&text_color=000000&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/https://github.com/dashboard" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/RahulSunkar&langs_count=10&title_color=ef4444&text_color=000000&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
