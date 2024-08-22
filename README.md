@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Passionate Data Analyst revealing insights from data, and a 💻 Front-End Developer creating user-centric digital experiences.
 
 * 🌍  I'm based in Chennai,India
-* ✉️  You can contact me at [srahulcs100@gmail.com](mailto:srahulcs100@gmail.com)
+* ✉️  You can contact me at [rahulsunkaraa@gmail.com](mailto:rahulsunkaraa@gmail.com)
 * 🧠  I'm learning React & jubiter
 * 🤝  I'm open to collaborating on intersting project
 * ⚡  l'm batman.....don't tell anyone
